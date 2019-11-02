@@ -25,9 +25,9 @@ body {
     margin: 0 auto;
 }
 
-.contact {
+.container {
     line-height: 1.5;
     color: white;
-    text-align: justify;
-    box-align: center;
+    column-gap: inherit;
 }
+
