@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://images.fineartamerica.com/images-medium-large-5/bench-on-a-glacial-lake-mount-robson-paul-zizka.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-mb-3 {
+    margin-top: 2.5%;
+    background-color: transparent;
+    border-style: solid;
+    border: 10px;
+    border-color: white;
+    color: white;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.contact {
+    line-height: 1.5;
+    color: white;
+    text-align: justify;
+    box-align: center;
+}
