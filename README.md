@@ -8,4 +8,4 @@ The purpse of this program is to showcase an everchanging potfolio.
 
 The website https://dopaminedriven.github.io/portfolio/ is live on github.
 
-This program utilizes the responsive bootstrap grid system for containers and navbar toggling. 
+This program utilizes the responsive bootstrap grid systems for containers and navbar toggling. 
